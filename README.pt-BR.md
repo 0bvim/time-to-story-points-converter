@@ -1,6 +1,6 @@
 # 🇧🇷 TimeToStory
 
-- [en-US version](https://github.com/0bvim/time_to_story_converter/blob/main/README.md)
+[en-US version](https://github.com/0bvim/time-to-story-points-converter/blob/main/README.md)
 
 **TimeToStory** é uma ferramenta de linha de comando em Elixir que recebe um valor de tempo no formato `HH.MM` e converte **somente os minutos** para uma escala proporcional de 100 unidades (mantendo a parte das **horas** intacta).
 
