@@ -75,5 +75,3 @@ TimeToStory.main(["1.40"])
 ## 📄 License
 
 MIT © You
-
----
