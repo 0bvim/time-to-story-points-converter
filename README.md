@@ -1,6 +1,6 @@
 # ⏱ TimeToStory
 
-![pt-BR version](https://github.com/seu-usuario/time_to_story/blob/main/README.md)
+[pt-BR version](https://github.com/seu-usuario/time_to_story/blob/main/README.md)
 
 **TimeToStory** is a small CLI tool written in Elixir that takes a time value in `HH.MM` format and converts the **minutes** to a proportional value on a 100-minute scale (keeping the **hour** value unchanged).
 
